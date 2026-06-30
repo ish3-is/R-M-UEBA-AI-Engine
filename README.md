@@ -48,21 +48,99 @@ R-M-UEBA-AI-Engine/
 ├── requirements.txt          # Python Dependency Manifest
 └── README.md                 # Document Matrix
 ```
-##Module Breakdown
-###ComponentFile PathTechnical SpecificationAI Engine Coresrc/models.pyHandles dataset ingestion (DSL-StrongPasswordData), feature engineering of Dwell Times, model serialization, and hyperparameter tuning.Endpoint Agentsrc/defensive_agent.pyLow-overhead Windows interceptor hook capturing key down/up events to stream keystroke timings smoothly without latency impact.Evaluation Bridgesrc/ueba_app.pyPipeline linking live agent telemetry inputs directly into the trained model inference engine to yield probability scores.SOC Dashboardsrc/app.pyStreamlit analytical visualization tool offering historical analysis, live drift counters, and threat vectors maps.🚀 Installation & Quick StartPrerequisitesPython 3.9 or higher installed.Windows Environment (for full functionality of the defensive_agent.py OS hooks).Environment SetupBash# Clone the repository
-git clone [https://github.com/ish3-is/R-M-UEBA-AI-Engine.git](https://github.com/ish3-is/R-M-UEBA-AI-Engine.git)
+## 📦 Module Breakdown
+
+| Component | File Path | Technical Specification |
+|-----------|-----------|-------------------------|
+| **AI Engine Core** | `src/models.py` | Handles dataset ingestion (**DSL-StrongPasswordData**), feature engineering of **Dwell Time** metrics, Random Forest model training, hyperparameter tuning, and model serialization. |
+| **Live Endpoint Agent** | `src/defensive_agent.py` | Lightweight Windows background agent that captures keyboard **Key Down/Key Up** events to compute keystroke timings with minimal system overhead. |
+| **Evaluation Bridge** | `src/ueba_app.py` | Connects real-time behavioral telemetry from the endpoint agent to the trained AI model, performs inference, and returns authentication confidence scores. |
+| **SOC Dashboard** | `src/app.py` | Interactive **Streamlit** dashboard providing live monitoring, anomaly visualization, historical analytics, behavioral drift metrics, and security alerts. |
+
+---
+
+# 🚀 Installation & Quick Start
+
+## 📋 Prerequisites
+
+- Python **3.9+**
+- Windows OS *(required for `defensive_agent.py` keyboard hooks)*
+
+---
+
+## ⚙️ Environment Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/ish3-is/R-M-UEBA-AI-Engine.git
+
 cd R-M-UEBA-AI-Engine
 
-# Initialize and activate virtual environment
+# Create a virtual environment
 python -m venv venv
-source venv/Scripts/activate  # On Windows: venv\Scripts\activate
+
+# Activate the environment
+
+# Windows
+venv\Scripts\activate
+
+# Linux / macOS
+source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
-Phase 1: Training the AI EngineTrain the Random Forest model on the baseline behavioral dataset to export the serialized classifier artifact.Bashpython src/models.py
-Phase 2: Deploying the Live Endpoint AgentExecute the background behavioral interceptor to begin real-time user monitoring and verification.Bashpython src/ueba_app.py
-Phase 3: Launching the SOC DashboardSpin up the interactive analyst console to visualize system status and anomalies.Bashstreamlit run src/app.py
-📊 SIEM & Splunk IntegrationThe system automatically pushes anomalous behavioral incidents into the SIEM collector pipeline.Outbound Anomaly Schema (siem_configs/sample_anomaly.json)When a user's behavior drifts significantly below the 95% confidence threshold, the agent triggers a structured security event:JSON{
+```
+
+---
+
+## 🧠 Phase 1 — Train the AI Engine
+
+Train the Random Forest classifier using the baseline behavioral dataset and export the serialized model.
+
+```bash
+python src/models.py
+```
+
+---
+
+## 🛡️ Phase 2 — Start the Live Endpoint Agent
+
+Launch the continuous authentication engine that monitors keystroke dynamics in real time.
+
+```bash
+python src/ueba_app.py
+```
+
+---
+
+## 📊 Phase 3 — Launch the SOC Dashboard
+
+Start the interactive analyst console.
+
+```bash
+streamlit run src/app.py
+```
+
+---
+
+# 📊 SIEM & Splunk Integration
+
+The UEBA Engine automatically generates structured security events whenever abnormal behavioral activity is detected.
+
+---
+
+## 📄 Outbound Anomaly Schema
+
+**File:**
+
+```text
+siem_configs/sample_anomaly.json
+```
+
+### Example JSON Event
+
+```json
+{
   "timestamp": "2026-06-30T08:38:00Z",
   "event_id": "UEBA-ANOMALY-4071",
   "host_name": "WKSTN-ENG-88",
@@ -75,8 +153,35 @@ Phase 3: Launching the SOC DashboardSpin up the interactive analyst console to v
   "action_taken": "ALERT_GENERATED",
   "severity": "HIGH"
 }
-Splunk Hunting Rule (siem_configs/splunk_alert.spl)To filter out noise and capture dedicated malicious attempts, the following Splunk SPL rule triggers a high-severity alert when 3 distinct anomalies are generated within a 1-minute window:Splunk SPLindex=security sourcetype="ueba:keystroke:analytics" severity="HIGH"
-| stats count, values(user_principal) as targeted_users, values(host_name) as affected_hosts by user_principal
+```
+
+---
+
+## 🔎 Splunk Hunting Rule
+
+**File:**
+
+```text
+siem_configs/splunk_alert.spl
+```
+
+The following **Splunk SPL** rule detects repeated behavioral anomalies and raises a **High Severity** alert when **three or more** suspicious authentication events occur within a one-minute period.
+
+```spl
+index=security sourcetype="ueba:keystroke:analytics" severity="HIGH"
+| stats count,
+        values(user_principal) AS targeted_users,
+        values(host_name) AS affected_hosts
+        BY user_principal
 | where count >= 3
-| eval alert_tier="Tier-2 SOC Intervention Required", description="Continuous authentication failure: Multiple keystroke dynamics anomalies detected within 60 seconds."
-📜 LicenseDistributed under the MIT License. See LICENSE for more information.
+| eval alert_tier="Tier-2 SOC Intervention Required",
+       description="Continuous authentication failure: Multiple keystroke dynamics anomalies detected within 60 seconds."
+```
+
+---
+
+# 📜 License
+
+Distributed under the **MIT License**.
+
+See the **LICENSE** file for more information.
