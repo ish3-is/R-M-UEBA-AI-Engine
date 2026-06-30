@@ -1,0 +1,866 @@
+[
+    {
+        "timestamp": "2026-06-30T07:30:35.042933",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.042933",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.042933",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.042933",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.043470",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.043470",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.043470",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.043470",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.043470",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.043470",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.043470",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.043470",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.043470",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.043470",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.043470",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.043470",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.043470",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.043470",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.043470",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.043470",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.043470",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.043470",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.043470",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.043470",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044006",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.044578",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045121",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045121",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045121",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045121",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045121",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045121",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045121",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045121",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045121",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045121",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045121",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045657",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045657",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045657",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045657",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045657",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045657",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045657",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045657",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045657",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045657",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045657",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045657",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045657",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045657",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045657",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045657",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    },
+    {
+        "timestamp": "2026-06-30T07:30:35.045657",
+        "event_type": "UEBA_Keystroke_Anomaly",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "تم رصد سرعة كتابة غير مطابقة للبصمة الحركية للمستخدم الحقيقي.",
+        "action": "Blocked_and_Alerted"
+    }
+]

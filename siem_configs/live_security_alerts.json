@@ -1,0 +1,17 @@
+[
+    {
+        "timestamp": "2026-06-30T07:52:17.551741",
+        "event_type": "UEBA_Live_Inference",
+        "severity": "CRITICAL",
+        "user_account": "s002",
+        "description": "🚨 تحذير أمني: البصمة الحركية غير متطابقة! اشتباه في اختراق الحساب.",
+        "action": "Blocked_and_Alerted",
+        "captured_metrics_sample": [
+            135.53333282470703,
+            166.14842414855957,
+            109.63201522827148,
+            181.39123916625977,
+            129.1666030883789
+        ]
+    }
+]
