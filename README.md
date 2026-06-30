@@ -1,4 +1,4 @@
-Markdown# 🛡️ Continuous-Auth UEBA: Keystroke Dynamics Engine
+# 🛡️ Continuous-Auth UEBA: Keystroke Dynamics Engine
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
